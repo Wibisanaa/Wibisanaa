@@ -39,7 +39,7 @@
 <br />
 -->
 <!-- About Section -->
- # Use To Code
+# About Me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
